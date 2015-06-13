@@ -6,7 +6,7 @@ CIS 2520		Lab3
 *************
 The Program
 *************
-This Program is to create a stack ADT implemented using a linked list.
+This Program creates a stack ADT implemented using a linked list.
 
 
 ************
